@@ -15,6 +15,11 @@ There are two classes: +1 and -1.
    
            +1: Means that the wafer is in a working condition and it doesn't need to be replaced.
            -1: Means that the wafer is faulty and it needa to be replaced.
+
+<h2>Architecture</h2>
+
+<img src="images/Picture1.png" >
+
 <h2>Data Validation and Data Transformation </h2>
 <p>
 i) Name Validation - Validation of files name as per the DSA. We have created a regex pattern for validation. After it checks for date format and time format if these    
